@@ -10,10 +10,14 @@ All the contents are chosen by my own interest. For the purpose to practice my j
 
 
 
+
+
+
+
 ### Attractive Library
 
 - colt: A library for **scientific computing**. Such a lib helps me to deal with high-dimensional computing and algebra. 
 
-  ​
+
 
 - dl4j: A cool **deep learning** library for JAVA
